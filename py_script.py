@@ -4,4 +4,4 @@ def r_work():
   pass
 
 def s_work():
-  pass
+  print('Print from Sanjay')
